@@ -6,7 +6,8 @@
 int main(){
     int resultado;
     
-    /*testando a maquina do tempo que é o git*/
+    /*testando a maquina do tempo que é o git
+    TA DANDO MEIO ERRADO*/
     srand(time(NULL));
     /* gera resultados:
     0 ou 1*/
